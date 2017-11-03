@@ -2,6 +2,10 @@
 vim-splashでvim起動時にミッフィーを表示しよう!
 
 ## スクリーンショット
+- ghost-miffy
+![ghost-miffy](./ghost-miffy-image.png)
+- normal-miffy
+![normal-miffy](./normal-miffy-image.png)
 
 ## 使い方
 ghost-miffy.txt,normal-miffy.txtを適当な場所に置き、.vimrcを以下を追記
